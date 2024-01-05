@@ -1,0 +1,625 @@
+,Gender,Nationality,Region,Year,Population
+1,Female,Non Saudi,Al Bahah,2011,16521
+2,Female,Non Saudi,Al Bahah,2012,16752
+3,Female,Non Saudi,Al Bahah,2013,17508
+4,Female,Non Saudi,Al Bahah,2014,17682
+5,Female,Non Saudi,Al Bahah,2015,18064
+6,Female,Non Saudi,Al Bahah,2016,18333
+7,Female,Non Saudi,Al Bahah,2017,18323
+8,Female,Non Saudi,Al Bahah,2018,16951
+9,Female,Non Saudi,Al Bahah,2019,16230
+10,Female,Non Saudi,Al Bahah,2020,17817
+11,Female,Non Saudi,Al Bahah,2021,16257
+12,Female,Non Saudi,Al Bahah,2022,16511
+14,Female,Non Saudi,Al Jawf,2011,22938
+15,Female,Non Saudi,Al Jawf,2012,23877
+16,Female,Non Saudi,Al Jawf,2013,25616
+17,Female,Non Saudi,Al Jawf,2014,26546
+18,Female,Non Saudi,Al Jawf,2015,27810
+19,Female,Non Saudi,Al Jawf,2016,28944
+20,Female,Non Saudi,Al Jawf,2017,29670
+21,Female,Non Saudi,Al Jawf,2018,28140
+22,Female,Non Saudi,Al Jawf,2019,27622
+23,Female,Non Saudi,Al Jawf,2020,31070
+24,Female,Non Saudi,Al Jawf,2021,29056
+25,Female,Non Saudi,Al Jawf,2022,30230
+27,Female,Non Saudi,Al Madinah Al Munawwarah,2011,186145
+28,Female,Non Saudi,Al Madinah Al Munawwarah,2012,188259
+29,Female,Non Saudi,Al Madinah Al Munawwarah,2013,196321
+30,Female,Non Saudi,Al Madinah Al Munawwarah,2014,197755
+31,Female,Non Saudi,Al Madinah Al Munawwarah,2015,201428
+32,Female,Non Saudi,Al Madinah Al Munawwarah,2016,203853
+33,Female,Non Saudi,Al Madinah Al Munawwarah,2017,203242
+34,Female,Non Saudi,Al Madinah Al Munawwarah,2018,187483
+35,Female,Non Saudi,Al Madinah Al Munawwarah,2019,179006
+36,Female,Non Saudi,Al Madinah Al Munawwarah,2020,195897
+37,Female,Non Saudi,Al Madinah Al Munawwarah,2021,178266
+38,Female,Non Saudi,Al Madinah Al Munawwarah,2022,180469
+40,Female,Non Saudi,Al Qaseem,2011,73064
+41,Female,Non Saudi,Al Qaseem,2012,74544
+42,Female,Non Saudi,Al Qaseem,2013,78423
+43,Female,Non Saudi,Al Qaseem,2014,79708
+44,Female,Non Saudi,Al Qaseem,2015,81928
+45,Female,Non Saudi,Al Qaseem,2016,83675
+46,Female,Non Saudi,Al Qaseem,2017,84205
+47,Female,Non Saudi,Al Qaseem,2018,78408
+48,Female,Non Saudi,Al Qaseem,2019,75593
+49,Female,Non Saudi,Al Qaseem,2020,83533
+50,Female,Non Saudi,Al Qaseem,2021,76769
+51,Female,Non Saudi,Al Qaseem,2022,78494
+53,Female,Non Saudi,Al Riyadh,2011,827255
+54,Female,Non Saudi,Al Riyadh,2012,854406
+55,Female,Non Saudi,Al Riyadh,2013,909928
+56,Female,Non Saudi,Al Riyadh,2014,936085
+57,Female,Non Saudi,Al Riyadh,2015,973777
+58,Female,Non Saudi,Al Riyadh,2016,1006495
+59,Female,Non Saudi,Al Riyadh,2017,1024901
+60,Female,Non Saudi,Al Riyadh,2018,965668
+61,Female,Non Saudi,Al Riyadh,2019,941810
+62,Female,Non Saudi,Al Riyadh,2020,1052826
+63,Female,Non Saudi,Al Riyadh,2021,978731
+64,Female,Non Saudi,Al Riyadh,2022,1012243
+66,Female,Non Saudi,Aseer,2011,86040
+67,Female,Non Saudi,Aseer,2012,87999
+68,Female,Non Saudi,Aseer,2013,92810
+69,Female,Non Saudi,Aseer,2014,94571
+70,Female,Non Saudi,Aseer,2015,97456
+71,Female,Non Saudi,Aseer,2016,99789
+72,Female,Non Saudi,Aseer,2017,100683
+73,Female,Non Saudi,Aseer,2018,93991
+74,Female,Non Saudi,Aseer,2019,90837
+75,Female,Non Saudi,Aseer,2020,100638
+76,Female,Non Saudi,Aseer,2021,92727
+77,Female,Non Saudi,Aseer,2022,95054
+79,Female,Non Saudi,Eastern Region,2011,336571
+80,Female,Non Saudi,Eastern Region,2012,347508
+81,Female,Non Saudi,Eastern Region,2013,369982
+82,Female,Non Saudi,Eastern Region,2014,380508
+83,Female,Non Saudi,Eastern Region,2015,395711
+84,Female,Non Saudi,Eastern Region,2016,408900
+85,Female,Non Saudi,Eastern Region,2017,416253
+86,Female,Non Saudi,Eastern Region,2018,392095
+87,Female,Non Saudi,Eastern Region,2019,382301
+88,Female,Non Saudi,Eastern Region,2020,427263
+89,Female,Non Saudi,Eastern Region,2021,397085
+90,Female,Non Saudi,Eastern Region,2022,410580
+92,Female,Non Saudi,Hail,2011,30448
+93,Female,Non Saudi,Hail,2012,31707
+94,Female,Non Saudi,Hail,2013,34022
+95,Female,Non Saudi,Hail,2014,35266
+96,Female,Non Saudi,Hail,2015,36952
+97,Female,Non Saudi,Hail,2016,38463
+98,Female,Non Saudi,Hail,2017,39437
+99,Female,Non Saudi,Hail,2018,37410
+100,Female,Non Saudi,Hail,2019,36734
+101,Female,Non Saudi,Hail,2020,41320
+102,Female,Non Saudi,Hail,2021,38660
+103,Female,Non Saudi,Hail,2022,40222
+105,Female,Non Saudi,Jazan,2011,95100
+106,Female,Non Saudi,Jazan,2012,96882
+107,Female,Non Saudi,Jazan,2013,101783
+108,Female,Non Saudi,Jazan,2014,103302
+109,Female,Non Saudi,Jazan,2015,106027
+110,Female,Non Saudi,Jazan,2016,108131
+111,Female,Non Saudi,Jazan,2017,108659
+112,Female,Non Saudi,Jazan,2018,101035
+113,Female,Non Saudi,Jazan,2019,97252
+114,Female,Non Saudi,Jazan,2020,107309
+115,Female,Non Saudi,Jazan,2021,98468
+116,Female,Non Saudi,Jazan,2022,100532
+118,Female,Non Saudi,Makkah Al Mukarramah,2011,1094964
+119,Female,Non Saudi,Makkah Al Mukarramah,2012,1107492
+120,Female,Non Saudi,Makkah Al Mukarramah,2013,1155014
+121,Female,Non Saudi,Makkah Al Mukarramah,2014,1163579
+122,Female,Non Saudi,Makkah Al Mukarramah,2015,1185309
+123,Female,Non Saudi,Makkah Al Mukarramah,2016,1199669
+124,Female,Non Saudi,Makkah Al Mukarramah,2017,1196162
+125,Female,Non Saudi,Makkah Al Mukarramah,2018,1103527
+126,Female,Non Saudi,Makkah Al Mukarramah,2019,1053771
+127,Female,Non Saudi,Makkah Al Mukarramah,2020,1153302
+128,Female,Non Saudi,Makkah Al Mukarramah,2021,1049612
+129,Female,Non Saudi,Makkah Al Mukarramah,2022,1062692
+131,Female,Non Saudi,Najran,2011,32654
+132,Female,Non Saudi,Najran,2012,34155
+133,Female,Non Saudi,Najran,2013,36829
+134,Female,Non Saudi,Najran,2014,38338
+135,Female,Non Saudi,Najran,2015,40343
+136,Female,Non Saudi,Najran,2016,42172
+137,Female,Non Saudi,Najran,2017,43408
+138,Female,Non Saudi,Najran,2018,41338
+139,Female,Non Saudi,Najran,2019,40726
+140,Female,Non Saudi,Najran,2020,45978
+141,Female,Non Saudi,Najran,2021,43156
+142,Female,Non Saudi,Najran,2022,45059
+144,Female,Non Saudi,Northern Borders,2011,15287
+145,Female,Non Saudi,Northern Borders,2012,16230
+146,Female,Non Saudi,Northern Borders,2013,17746
+147,Female,Non Saudi,Northern Borders,2014,18721
+148,Female,Non Saudi,Northern Borders,2015,19954
+149,Female,Non Saudi,Northern Borders,2016,21111
+150,Female,Non Saudi,Northern Borders,2017,21979
+151,Female,Non Saudi,Northern Borders,2018,21155
+152,Female,Non Saudi,Northern Borders,2019,21056
+153,Female,Non Saudi,Northern Borders,2020,24006
+154,Female,Non Saudi,Northern Borders,2021,22741
+155,Female,Non Saudi,Northern Borders,2022,23954
+157,Female,Non Saudi,Tabuk,2011,35867
+158,Female,Non Saudi,Tabuk,2012,36931
+159,Female,Non Saudi,Tabuk,2013,39200
+160,Female,Non Saudi,Tabuk,2014,40199
+161,Female,Non Saudi,Tabuk,2015,41697
+162,Female,Non Saudi,Tabuk,2016,42964
+163,Female,Non Saudi,Tabuk,2017,43610
+164,Female,Non Saudi,Tabuk,2018,40972
+165,Female,Non Saudi,Tabuk,2019,39840
+166,Female,Non Saudi,Tabuk,2020,44416
+167,Female,Non Saudi,Tabuk,2021,41163
+168,Female,Non Saudi,Tabuk,2022,42458
+170,Female,Saudi,Al Bahah,2011,96899
+171,Female,Saudi,Al Bahah,2012,99234
+172,Female,Saudi,Al Bahah,2013,101946
+173,Female,Saudi,Al Bahah,2014,104998
+174,Female,Saudi,Al Bahah,2015,108025
+175,Female,Saudi,Al Bahah,2016,110757
+176,Female,Saudi,Al Bahah,2017,113257
+177,Female,Saudi,Al Bahah,2018,116010
+178,Female,Saudi,Al Bahah,2019,119001
+179,Female,Saudi,Al Bahah,2020,122365
+180,Female,Saudi,Al Bahah,2021,125345
+181,Female,Saudi,Al Bahah,2022,128405
+183,Female,Saudi,Al Jawf,2011,172724
+184,Female,Saudi,Al Jawf,2012,176392
+185,Female,Saudi,Al Jawf,2013,180666
+186,Female,Saudi,Al Jawf,2014,185605
+187,Female,Saudi,Al Jawf,2015,190315
+188,Female,Saudi,Al Jawf,2016,194629
+189,Female,Saudi,Al Jawf,2017,198447
+190,Female,Saudi,Al Jawf,2018,202611
+191,Female,Saudi,Al Jawf,2019,206987
+192,Female,Saudi,Al Jawf,2020,211750
+193,Female,Saudi,Al Jawf,2021,215787
+194,Female,Saudi,Al Jawf,2022,219905
+196,Female,Saudi,Al Madinah Al Munawwarah,2011,519999
+197,Female,Saudi,Al Madinah Al Munawwarah,2012,532216
+198,Female,Saudi,Al Madinah Al Munawwarah,2013,546260
+199,Female,Saudi,Al Madinah Al Munawwarah,2014,562344
+200,Female,Saudi,Al Madinah Al Munawwarah,2015,577855
+201,Female,Saudi,Al Madinah Al Munawwarah,2016,592006
+202,Female,Saudi,Al Madinah Al Munawwarah,2017,604703
+203,Female,Saudi,Al Madinah Al Munawwarah,2018,618598
+204,Female,Saudi,Al Madinah Al Munawwarah,2019,633571
+205,Female,Saudi,Al Madinah Al Munawwarah,2020,650123
+206,Female,Saudi,Al Madinah Al Munawwarah,2021,664660
+207,Female,Saudi,Al Madinah Al Munawwarah,2022,679397
+209,Female,Saudi,Al Qaseem,2011,355120
+210,Female,Saudi,Al Qaseem,2012,363544
+211,Female,Saudi,Al Qaseem,2013,373193
+212,Female,Saudi,Al Qaseem,2014,384306
+213,Female,Saudi,Al Qaseem,2015,394991
+214,Female,Saudi,Al Qaseem,2016,404745
+215,Female,Saudi,Al Qaseem,2017,413455
+216,Female,Saudi,Al Qaseem,2018,422996
+217,Female,Saudi,Al Qaseem,2019,433415
+218,Female,Saudi,Al Qaseem,2020,444914
+219,Female,Saudi,Al Qaseem,2021,455121
+220,Female,Saudi,Al Qaseem,2022,465458
+222,Female,Saudi,Al Riyadh,2011,1671318
+223,Female,Saudi,Al Riyadh,2012,1711976
+224,Female,Saudi,Al Riyadh,2013,1758368
+225,Female,Saudi,Al Riyadh,2014,1811466
+226,Female,Saudi,Al Riyadh,2015,1862723
+227,Female,Saudi,Al Riyadh,2016,1909357
+228,Female,Saudi,Al Riyadh,2017,1951078
+229,Female,Saudi,Al Riyadh,2018,1996692
+230,Female,Saudi,Al Riyadh,2019,2046070
+231,Female,Saudi,Al Riyadh,2020,2100681
+232,Female,Saudi,Al Riyadh,2021,2148761
+233,Female,Saudi,Al Riyadh,2022,2197165
+235,Female,Saudi,Aseer,2011,555911
+236,Female,Saudi,Aseer,2012,569003
+237,Female,Saudi,Aseer,2013,584082
+238,Female,Saudi,Aseer,2014,601145
+239,Female,Saudi,Aseer,2015,617900
+240,Female,Saudi,Aseer,2016,633035
+241,Female,Saudi,Aseer,2017,646707
+242,Female,Saudi,Aseer,2018,661721
+243,Female,Saudi,Aseer,2019,677910
+244,Female,Saudi,Aseer,2020,696103
+245,Female,Saudi,Aseer,2021,712009
+246,Female,Saudi,Aseer,2022,728200
+248,Female,Saudi,Eastern Region,2011,1101214
+249,Female,Saudi,Eastern Region,2012,1127648
+250,Female,Saudi,Eastern Region,2013,1157930
+251,Female,Saudi,Eastern Region,2014,1192754
+252,Female,Saudi,Eastern Region,2015,1226344
+253,Female,Saudi,Eastern Region,2016,1256995
+254,Female,Saudi,Eastern Region,2017,1284399
+255,Female,Saudi,Eastern Region,2018,1314470
+256,Female,Saudi,Eastern Region,2019,1346677
+257,Female,Saudi,Eastern Region,2020,1382219
+258,Female,Saudi,Eastern Region,2021,1413447
+259,Female,Saudi,Eastern Region,2022,1444796
+261,Female,Saudi,Hail,2011,201625
+262,Female,Saudi,Hail,2012,206313
+263,Female,Saudi,Hail,2013,211727
+264,Female,Saudi,Hail,2014,217924
+265,Female,Saudi,Hail,2015,223897
+266,Female,Saudi,Hail,2016,229345
+267,Female,Saudi,Hail,2017,234193
+268,Female,Saudi,Hail,2018,239508
+269,Female,Saudi,Hail,2019,245264
+270,Female,Saudi,Hail,2020,251585
+271,Female,Saudi,Hail,2021,257139
+272,Female,Saudi,Hail,2022,262778
+274,Female,Saudi,Jazan,2011,383658
+275,Female,Saudi,Jazan,2012,392808
+276,Female,Saudi,Jazan,2013,403310
+277,Female,Saudi,Jazan,2014,415289
+278,Female,Saudi,Jazan,2015,426901
+279,Female,Saudi,Jazan,2016,437497
+280,Female,Saudi,Jazan,2017,447014
+281,Female,Saudi,Jazan,2018,457451
+282,Female,Saudi,Jazan,2019,468778
+283,Female,Saudi,Jazan,2020,481453
+284,Female,Saudi,Jazan,2021,492571
+285,Female,Saudi,Jazan,2022,503886
+287,Female,Saudi,Makkah Al Mukarramah,2011,1570069
+288,Female,Saudi,Makkah Al Mukarramah,2012,1608752
+289,Female,Saudi,Makkah Al Mukarramah,2013,1653242
+290,Female,Saudi,Makkah Al Mukarramah,2014,1703946
+291,Female,Saudi,Makkah Al Mukarramah,2015,1753158
+292,Female,Saudi,Makkah Al Mukarramah,2016,1798091
+293,Female,Saudi,Makkah Al Mukarramah,2017,1838533
+294,Female,Saudi,Makkah Al Mukarramah,2018,1882931
+295,Female,Saudi,Makkah Al Mukarramah,2019,1931101
+296,Female,Saudi,Makkah Al Mukarramah,2020,1984600
+297,Female,Saudi,Makkah Al Mukarramah,2021,2032042
+298,Female,Saudi,Makkah Al Mukarramah,2022,2079845
+300,Female,Saudi,Najran,2011,153469
+301,Female,Saudi,Najran,2012,156915
+302,Female,Saudi,Najran,2013,160858
+303,Female,Saudi,Najran,2014,165373
+304,Female,Saudi,Najran,2015,169708
+305,Female,Saudi,Najran,2016,173674
+306,Female,Saudi,Najran,2017,177215
+307,Female,Saudi,Najran,2018,181060
+308,Female,Saudi,Najran,2019,185115
+309,Female,Saudi,Najran,2020,189598
+310,Female,Saudi,Najran,2021,193396
+311,Female,Saudi,Najran,2022,197308
+313,Female,Saudi,Northern Borders,2011,105154
+314,Female,Saudi,Northern Borders,2012,107497
+315,Female,Saudi,Northern Borders,2013,110175
+316,Female,Saudi,Northern Borders,2014,113247
+317,Female,Saudi,Northern Borders,2015,116221
+318,Female,Saudi,Northern Borders,2016,118914
+319,Female,Saudi,Northern Borders,2017,121315
+320,Female,Saudi,Northern Borders,2018,123943
+321,Female,Saudi,Northern Borders,2019,126707
+322,Female,Saudi,Northern Borders,2020,129777
+323,Female,Saudi,Northern Borders,2021,132401
+324,Female,Saudi,Northern Borders,2022,135091
+326,Female,Saudi,Tabuk,2011,244726
+327,Female,Saudi,Tabuk,2012,250276
+328,Female,Saudi,Tabuk,2013,256629
+329,Female,Saudi,Tabuk,2014,263944
+330,Female,Saudi,Tabuk,2015,270975
+331,Female,Saudi,Tabuk,2016,277342
+332,Female,Saudi,Tabuk,2017,283010
+333,Female,Saudi,Tabuk,2018,289200
+334,Female,Saudi,Tabuk,2019,295842
+335,Female,Saudi,Tabuk,2020,303140
+336,Female,Saudi,Tabuk,2021,309466
+337,Female,Saudi,Tabuk,2022,315897
+339,Male,Non Saudi,Al Bahah,2011,64299
+340,Male,Non Saudi,Al Bahah,2012,68850
+341,Male,Non Saudi,Al Bahah,2013,75077
+342,Male,Non Saudi,Al Bahah,2014,75412
+343,Male,Non Saudi,Al Bahah,2015,81945
+344,Male,Non Saudi,Al Bahah,2016,85946
+345,Male,Non Saudi,Al Bahah,2017,82134
+346,Male,Non Saudi,Al Bahah,2018,73960
+347,Male,Non Saudi,Al Bahah,2019,69631
+348,Male,Non Saudi,Al Bahah,2020,73593
+349,Male,Non Saudi,Al Bahah,2021,66075
+350,Male,Non Saudi,Al Bahah,2022,71375
+352,Male,Non Saudi,Al Jawf,2011,92164
+353,Male,Non Saudi,Al Jawf,2012,100442
+354,Male,Non Saudi,Al Jawf,2013,111489
+355,Male,Non Saudi,Al Jawf,2014,114009
+356,Male,Non Saudi,Al Jawf,2015,126144
+357,Male,Non Saudi,Al Jawf,2016,134730
+358,Male,Non Saudi,Al Jawf,2017,131154
+359,Male,Non Saudi,Al Jawf,2018,120319
+360,Male,Non Saudi,Al Jawf,2019,115416
+361,Male,Non Saudi,Al Jawf,2020,124328
+362,Male,Non Saudi,Al Jawf,2021,113799
+363,Male,Non Saudi,Al Jawf,2022,125328
+365,Male,Non Saudi,Al Madinah Al Munawwarah,2011,465548
+366,Male,Non Saudi,Al Madinah Al Munawwarah,2012,505254
+367,Male,Non Saudi,Al Madinah Al Munawwarah,2013,558493
+368,Male,Non Saudi,Al Madinah Al Munawwarah,2014,568795
+369,Male,Non Saudi,Al Madinah Al Munawwarah,2015,626728
+370,Male,Non Saudi,Al Madinah Al Munawwarah,2016,666678
+371,Male,Non Saudi,Al Madinah Al Munawwarah,2017,646360
+372,Male,Non Saudi,Al Madinah Al Munawwarah,2018,590568
+373,Male,Non Saudi,Al Madinah Al Munawwarah,2019,564196
+374,Male,Non Saudi,Al Madinah Al Munawwarah,2020,605356
+375,Male,Non Saudi,Al Madinah Al Munawwarah,2021,551861
+376,Male,Non Saudi,Al Madinah Al Munawwarah,2022,605368
+378,Male,Non Saudi,Al Qaseem,2011,293324
+379,Male,Non Saudi,Al Qaseem,2012,314519
+380,Male,Non Saudi,Al Qaseem,2013,343441
+381,Male,Non Saudi,Al Qaseem,2014,345482
+382,Male,Non Saudi,Al Qaseem,2015,375940
+383,Male,Non Saudi,Al Qaseem,2016,394872
+384,Male,Non Saudi,Al Qaseem,2017,377965
+385,Male,Non Saudi,Al Qaseem,2018,340886
+386,Male,Non Saudi,Al Qaseem,2019,321411
+387,Male,Non Saudi,Al Qaseem,2020,340300
+388,Male,Non Saudi,Al Qaseem,2021,306081
+389,Male,Non Saudi,Al Qaseem,2022,331195
+391,Male,Non Saudi,Al Riyadh,2011,2348331
+392,Male,Non Saudi,Al Riyadh,2012,2555208
+393,Male,Non Saudi,Al Riyadh,2013,2831733
+394,Male,Non Saudi,Al Riyadh,2014,2891361
+395,Male,Non Saudi,Al Riyadh,2015,3194046
+396,Male,Non Saudi,Al Riyadh,2016,3406281
+397,Male,Non Saudi,Al Riyadh,2017,3310906
+398,Male,Non Saudi,Al Riyadh,2018,3032784
+399,Male,Non Saudi,Al Riyadh,2019,2904720
+400,Male,Non Saudi,Al Riyadh,2020,3124464
+401,Male,Non Saudi,Al Riyadh,2021,2855565
+402,Male,Non Saudi,Al Riyadh,2022,3140295
+404,Male,Non Saudi,Aseer,2011,334823
+405,Male,Non Saudi,Aseer,2012,367122
+406,Male,Non Saudi,Aseer,2013,409937
+407,Male,Non Saudi,Aseer,2014,421694
+408,Male,Non Saudi,Aseer,2015,469283
+409,Male,Non Saudi,Aseer,2016,504117
+410,Male,Non Saudi,Aseer,2017,493527
+411,Male,Non Saudi,Aseer,2018,455278
+412,Male,Non Saudi,Aseer,2019,439113
+413,Male,Non Saudi,Aseer,2020,475609
+414,Male,Non Saudi,Aseer,2021,437661
+415,Male,Non Saudi,Aseer,2022,484543
+417,Male,Non Saudi,Eastern Region,2011,1251678
+418,Male,Non Saudi,Eastern Region,2012,1368869
+419,Male,Non Saudi,Eastern Region,2013,1524634
+420,Male,Non Saudi,Eastern Region,2014,1564484
+421,Male,Non Saudi,Eastern Region,2015,1736772
+422,Male,Non Saudi,Eastern Region,2016,1861202
+423,Male,Non Saudi,Eastern Region,2017,1817812
+424,Male,Non Saudi,Eastern Region,2018,1673054
+425,Male,Non Saudi,Eastern Region,2019,1609979
+426,Male,Non Saudi,Eastern Region,2020,1739871
+427,Male,Non Saudi,Eastern Region,2021,1597497
+428,Male,Non Saudi,Eastern Region,2022,1764820
+430,Male,Non Saudi,Hail,2011,114620
+431,Male,Non Saudi,Hail,2012,126617
+432,Male,Non Saudi,Hail,2013,142421
+433,Male,Non Saudi,Hail,2014,147553
+434,Male,Non Saudi,Hail,2015,165334
+435,Male,Non Saudi,Hail,2016,178799
+436,Male,Non Saudi,Hail,2017,176191
+437,Male,Non Saudi,Hail,2018,163576
+438,Male,Non Saudi,Hail,2019,158747
+439,Male,Non Saudi,Hail,2020,172985
+440,Male,Non Saudi,Hail,2021,160119
+441,Male,Non Saudi,Hail,2022,178299
+443,Male,Non Saudi,Jazan,2011,239968
+444,Male,Non Saudi,Jazan,2012,259647
+445,Male,Non Saudi,Jazan,2013,286136
+446,Male,Non Saudi,Jazan,2014,290529
+447,Male,Non Saudi,Jazan,2015,319148
+448,Male,Non Saudi,Jazan,2016,338452
+449,Male,Non Saudi,Jazan,2017,327137
+450,Male,Non Saudi,Jazan,2018,297971
+451,Male,Non Saudi,Jazan,2019,283798
+452,Male,Non Saudi,Jazan,2020,303558
+453,Male,Non Saudi,Jazan,2021,275880
+454,Male,Non Saudi,Jazan,2022,301686
+456,Male,Non Saudi,Makkah Al Mukarramah,2011,2401646
+457,Male,Non Saudi,Makkah Al Mukarramah,2012,2582311
+458,Male,Non Saudi,Makkah Al Mukarramah,2013,2827707
+459,Male,Non Saudi,Makkah Al Mukarramah,2014,2852658
+460,Male,Non Saudi,Makkah Al Mukarramah,2015,3113295
+461,Male,Non Saudi,Makkah Al Mukarramah,2016,3279865
+462,Male,Non Saudi,Makkah Al Mukarramah,2017,3149081
+463,Male,Non Saudi,Makkah Al Mukarramah,2018,2849054
+464,Male,Non Saudi,Makkah Al Mukarramah,2019,2694938
+465,Male,Non Saudi,Makkah Al Mukarramah,2020,2862658
+466,Male,Non Saudi,Makkah Al Mukarramah,2021,2583425
+467,Male,Non Saudi,Makkah Al Mukarramah,2022,2805048
+469,Male,Non Saudi,Najran,2011,102120
+470,Male,Non Saudi,Najran,2012,112311
+471,Male,Non Saudi,Najran,2013,125778
+472,Male,Non Saudi,Najran,2014,129767
+473,Male,Non Saudi,Najran,2015,144817
+474,Male,Non Saudi,Najran,2016,156000
+475,Male,Non Saudi,Najran,2017,153138
+476,Male,Non Saudi,Najran,2018,141644
+477,Male,Non Saudi,Najran,2019,136969
+478,Male,Non Saudi,Najran,2020,148729
+479,Male,Non Saudi,Najran,2021,137194
+480,Male,Non Saudi,Najran,2022,152265
+482,Male,Non Saudi,Northern Borders,2011,53994
+483,Male,Non Saudi,Northern Borders,2012,59213
+484,Male,Non Saudi,Northern Borders,2013,66125
+485,Male,Non Saudi,Northern Borders,2014,68037
+486,Male,Non Saudi,Northern Borders,2015,75733
+487,Male,Non Saudi,Northern Borders,2016,81361
+488,Male,Non Saudi,Northern Borders,2017,79659
+489,Male,Non Saudi,Northern Borders,2018,73503
+490,Male,Non Saudi,Northern Borders,2019,70898
+491,Male,Non Saudi,Northern Borders,2020,76801
+492,Male,Non Saudi,Northern Borders,2021,70681
+493,Male,Non Saudi,Northern Borders,2022,78265
+495,Male,Non Saudi,Tabuk,2011,134369
+496,Male,Non Saudi,Tabuk,2012,148210
+497,Male,Non Saudi,Tabuk,2013,166450
+498,Male,Non Saudi,Tabuk,2014,172196
+499,Male,Non Saudi,Tabuk,2015,192670
+500,Male,Non Saudi,Tabuk,2016,208084
+501,Male,Non Saudi,Tabuk,2017,204779
+502,Male,Non Saudi,Tabuk,2018,189875
+503,Male,Non Saudi,Tabuk,2019,184034
+504,Male,Non Saudi,Tabuk,2020,200296
+505,Male,Non Saudi,Tabuk,2021,185185
+506,Male,Non Saudi,Tabuk,2022,205977
+508,Male,Saudi,Al Bahah,2011,94235
+509,Male,Saudi,Al Bahah,2012,96365
+510,Male,Saudi,Al Bahah,2013,98881
+511,Male,Saudi,Al Bahah,2014,101794
+512,Male,Saudi,Al Bahah,2015,104524
+513,Male,Saudi,Al Bahah,2016,106956
+514,Male,Saudi,Al Bahah,2017,109065
+515,Male,Saudi,Al Bahah,2018,111589
+516,Male,Saudi,Al Bahah,2019,114395
+517,Male,Saudi,Al Bahah,2020,117530
+518,Male,Saudi,Al Bahah,2021,120156
+519,Male,Saudi,Al Bahah,2022,122883
+521,Male,Saudi,Al Jawf,2011,173361
+522,Male,Saudi,Al Jawf,2012,177107
+523,Male,Saudi,Al Jawf,2013,181436
+524,Male,Saudi,Al Jawf,2014,186470
+525,Male,Saudi,Al Jawf,2015,191142
+526,Male,Saudi,Al Jawf,2016,195224
+527,Male,Saudi,Al Jawf,2017,198781
+528,Male,Saudi,Al Jawf,2018,202935
+529,Male,Saudi,Al Jawf,2019,207354
+530,Male,Saudi,Al Jawf,2020,212298
+531,Male,Saudi,Al Jawf,2021,216252
+532,Male,Saudi,Al Jawf,2022,220359
+534,Male,Saudi,Al Madinah Al Munawwarah,2011,517557
+535,Male,Saudi,Al Madinah Al Munawwarah,2012,529499
+536,Male,Saudi,Al Madinah Al Munawwarah,2013,543503
+537,Male,Saudi,Al Madinah Al Munawwarah,2014,559725
+538,Male,Saudi,Al Madinah Al Munawwarah,2015,574828
+539,Male,Saudi,Al Madinah Al Munawwarah,2016,588122
+540,Male,Saudi,Al Madinah Al Munawwarah,2017,599638
+541,Male,Saudi,Al Madinah Al Munawwarah,2018,613235
+542,Male,Saudi,Al Madinah Al Munawwarah,2019,628057
+543,Male,Saudi,Al Madinah Al Munawwarah,2020,644698
+544,Male,Saudi,Al Madinah Al Munawwarah,2021,658453
+545,Male,Saudi,Al Madinah Al Munawwarah,2022,672749
+547,Male,Saudi,Al Qaseem,2011,353873
+548,Male,Saudi,Al Qaseem,2012,362068
+549,Male,Saudi,Al Qaseem,2013,371679
+550,Male,Saudi,Al Qaseem,2014,382811
+551,Male,Saudi,Al Qaseem,2015,393229
+552,Male,Saudi,Al Qaseem,2016,402308
+553,Male,Saudi,Al Qaseem,2017,410211
+554,Male,Saudi,Al Qaseem,2018,419545
+555,Male,Saudi,Al Qaseem,2019,429850
+556,Male,Saudi,Al Qaseem,2020,441421
+557,Male,Saudi,Al Qaseem,2021,451061
+558,Male,Saudi,Al Qaseem,2022,461032
+560,Male,Saudi,Al Riyadh,2011,1704831
+561,Male,Saudi,Al Riyadh,2012,1746263
+562,Male,Saudi,Al Riyadh,2013,1794724
+563,Male,Saudi,Al Riyadh,2014,1850887
+564,Male,Saudi,Al Riyadh,2015,1903165
+565,Male,Saudi,Al Riyadh,2016,1948993
+566,Male,Saudi,Al Riyadh,2017,1988653
+567,Male,Saudi,Al Riyadh,2018,2035530
+568,Male,Saudi,Al Riyadh,2019,2086662
+569,Male,Saudi,Al Riyadh,2020,2144437
+570,Male,Saudi,Al Riyadh,2021,2192321
+571,Male,Saudi,Al Riyadh,2022,2242045
+573,Male,Saudi,Aseer,2011,552283
+574,Male,Saudi,Aseer,2012,564774
+575,Male,Saudi,Aseer,2013,579440
+576,Male,Saudi,Aseer,2014,596354
+577,Male,Saudi,Aseer,2015,612226
+578,Male,Saudi,Aseer,2016,626115
+579,Male,Saudi,Aseer,2017,638272
+580,Male,Saudi,Aseer,2018,652700
+581,Male,Saudi,Aseer,2019,668468
+582,Male,Saudi,Aseer,2020,686327
+583,Male,Saudi,Aseer,2021,701135
+584,Male,Saudi,Aseer,2022,716488
+586,Male,Saudi,Eastern Region,2011,1143956
+587,Male,Saudi,Eastern Region,2012,1171807
+588,Male,Saudi,Eastern Region,2013,1204401
+589,Male,Saudi,Eastern Region,2014,1242148
+590,Male,Saudi,Eastern Region,2015,1277468
+591,Male,Saudi,Eastern Region,2016,1308467
+592,Male,Saudi,Eastern Region,2017,1335326
+593,Male,Saudi,Eastern Region,2018,1366995
+594,Male,Saudi,Eastern Region,2019,1401278
+595,Male,Saudi,Eastern Region,2020,1439974
+596,Male,Saudi,Eastern Region,2021,1471933
+597,Male,Saudi,Eastern Region,2022,1505058
+599,Male,Saudi,Hail,2011,203902
+600,Male,Saudi,Hail,2012,208594
+601,Male,Saudi,Hail,2013,214109
+602,Male,Saudi,Hail,2014,220505
+603,Male,Saudi,Hail,2015,226447
+604,Male,Saudi,Hail,2016,231701
+605,Male,Saudi,Hail,2017,236237
+606,Male,Saudi,Hail,2018,241617
+607,Male,Saudi,Hail,2019,247491
+608,Male,Saudi,Hail,2020,254097
+609,Male,Saudi,Hail,2021,259504
+610,Male,Saudi,Hail,2022,265107
+612,Male,Saudi,Jazan,2011,383516
+613,Male,Saudi,Jazan,2012,392305
+614,Male,Saudi,Jazan,2013,402666
+615,Male,Saudi,Jazan,2014,414604
+616,Male,Saudi,Jazan,2015,425816
+617,Male,Saudi,Jazan,2016,435600
+618,Male,Saudi,Jazan,2017,444104
+619,Male,Saudi,Jazan,2018,454221
+620,Male,Saudi,Jazan,2019,465289
+621,Male,Saudi,Jazan,2020,477821
+622,Male,Saudi,Jazan,2021,488180
+623,Male,Saudi,Jazan,2022,498893
+625,Male,Saudi,Makkah Al Mukarramah,2011,1573573
+626,Male,Saudi,Makkah Al Mukarramah,2012,1611601
+627,Male,Saudi,Makkah Al Mukarramah,2013,1656215
+628,Male,Saudi,Makkah Al Mukarramah,2014,1707937
+629,Male,Saudi,Makkah Al Mukarramah,2015,1756374
+630,Male,Saudi,Makkah Al Mukarramah,2016,1798985
+631,Male,Saudi,Makkah Al Mukarramah,2017,1835981
+632,Male,Saudi,Makkah Al Mukarramah,2018,1879826
+633,Male,Saudi,Makkah Al Mukarramah,2019,1927746
+634,Male,Saudi,Makkah Al Mukarramah,2020,1981969
+635,Male,Saudi,Makkah Al Mukarramah,2021,2027109
+636,Male,Saudi,Makkah Al Mukarramah,2022,2073878
+638,Male,Saudi,Najran,2011,154018
+639,Male,Saudi,Najran,2012,157421
+640,Male,Saudi,Najran,2013,161411
+641,Male,Saudi,Najran,2014,166042
+642,Male,Saudi,Najran,2015,170333
+643,Male,Saudi,Najran,2016,174112
+644,Male,Saudi,Najran,2017,177411
+645,Male,Saudi,Najran,2018,181278
+646,Male,Saudi,Najran,2019,185427
+647,Male,Saudi,Najran,2020,190039
+648,Male,Saudi,Najran,2021,193787
+649,Male,Saudi,Najran,2022,197668
+651,Male,Saudi,Northern Borders,2011,106296
+652,Male,Saudi,Northern Borders,2012,108664
+653,Male,Saudi,Northern Borders,2013,111421
+654,Male,Saudi,Northern Borders,2014,114609
+655,Male,Saudi,Northern Borders,2015,117567
+656,Male,Saudi,Northern Borders,2016,120146
+657,Male,Saudi,Northern Borders,2017,122394
+658,Male,Saudi,Northern Borders,2018,125029
+659,Male,Saudi,Northern Borders,2019,127864
+660,Male,Saudi,Northern Borders,2020,131023
+661,Male,Saudi,Northern Borders,2021,133588
+662,Male,Saudi,Northern Borders,2022,136267
+664,Male,Saudi,Tabuk,2011,248842
+665,Male,Saudi,Tabuk,2012,254504
+666,Male,Saudi,Tabuk,2013,261129
+667,Male,Saudi,Tabuk,2014,268809
+668,Male,Saudi,Tabuk,2015,275939
+669,Male,Saudi,Tabuk,2016,282196
+670,Male,Saudi,Tabuk,2017,287581
+671,Male,Saudi,Tabuk,2018,293945
+672,Male,Saudi,Tabuk,2019,300852
+673,Male,Saudi,Tabuk,2020,308645
+674,Male,Saudi,Tabuk,2021,315045
+675,Male,Saudi,Tabuk,2022,321704
